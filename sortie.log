@@ -1,0 +1,4 @@
+[2020-09-08T06:27:43.363403]	[INFO]	[sortie] new run started
+[2020-09-08T06:27:43.400006]	[INFO]	[sortie] Ingestion mode is 'track_list'
+[2020-09-08T06:27:43.400148]	[INFO]	[TrackLister] Tracks found: ['track01.mp3', 'track02.mp3', 'track03.mp3']
+[2020-09-08T06:27:43.400233]	[INFO]	[S3 Orchestrator] Downloading 'track01.mp3' from S3 bucket 'pythontechtest' to '/opt/pythontechtest/cache/1d04f99b-897f-55c4-bb34-9920579eb1f5.mp3'
